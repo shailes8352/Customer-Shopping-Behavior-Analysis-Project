@@ -12,3 +12,7 @@ An end-to-end data analytics project analyzing retail customer shopping patterns
 * Analyzed total customers, revenue generation, average purchase amount, and review ratings.
 * Examined category performance (Clothing, Accessories, Footwear).
 * Evaluated subscriber vs. non-subscriber trends and gender distribution.
+
+## 📊 Dashboard Overview
+
+![Customer Shopping Behavior Dashboard](Customer_Shopping_Behavior.png)
